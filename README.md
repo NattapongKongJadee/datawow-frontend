@@ -30,3 +30,8 @@ bun dev
 **Tailwind** (CSS Properties)
 **MUI** (MainComponent)
 **JEST** (UNIT TEST)
+
+## Note 
+ในกรณีที่ตรวจสอบแล้วแล้วยังไม่ผ่านเกณฑ์ที่บริษัทตั้งไว้ อยากได้ Feedback และ สิ่งที่ต้องปรับปรุงพร้อมเพิ่มเติมด้วยครับ  
+
+
