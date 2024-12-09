@@ -33,5 +33,8 @@ bun dev
 
 ## Note 
 ในกรณีที่ตรวจสอบแล้วแล้วยังไม่ผ่านเกณฑ์ที่บริษัทตั้งไว้ อยากได้ Feedback และ สิ่งที่ต้องปรับปรุงพร้อมเพิ่มเติมด้วยครับ  
-
-
+![Screenshot 2567-12-09 at 11 18 32](https://github.com/user-attachments/assets/33c31d12-cc0a-4bf8-9e8e-38d21b9367a5)
+![Screenshot 2567-12-09 at 11 18 20](https://github.com/user-attachments/assets/e09c16ef-e410-446e-9734-4a05e2a78675)
+![Screenshot 2567-12-09 at 11 12 00](https://github.com/user-attachments/assets/3a9ce9a8-9733-4ca9-a8e4-1b397b961b57)
+![Screenshot 2567-12-09 at 11 17 04](https://github.com/user-attachments/assets/62190c4e-8e29-4611-9ce3-20f07392ed5d)
+![Screenshot 2567-12-09 at 11 17 26](https://github.com/user-attachments/assets/3d529e38-115c-46b6-a9b4-99436486a0c8)
